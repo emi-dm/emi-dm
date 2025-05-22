@@ -1,7 +1,5 @@
 ## 👋 Hi! I'm Emilio Delgado
 
-<img src="https://emi-dm.github.io/images/me.png" alt="Emilio Delgado" width="120" align="right" />
-
 ### 🧑‍🔬 AI Researcher for Healthcare
 
 I'm a researcher and PhD student at the University of Extremadura, specializing in Machine Learning and Deep Learning applied to healthcare. My work focuses on processing and analyzing large-scale clinical and medical imaging data, aiming to improve quality of life and health outcomes through advanced AI.
